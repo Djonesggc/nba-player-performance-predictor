@@ -4,7 +4,9 @@ This project uses machine learning to predict an NBA player's
 Points + Rebounds + Assists (PRA) for a game.
 
 Technologies Used
-- React (frontend)
+- HTML
+- CSS
+- Javs Script
 
 Features
 - Predicts player PRA for upcoming games
